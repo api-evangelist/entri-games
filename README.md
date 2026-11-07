@@ -1,4 +1,4 @@
-# entri-games
+# Геймдев Таверна
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,131 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-entri-games is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://entri.games/
+Геймдев Таверна – онлайн‑платформа, соединяющая разработчиков игр, издателей и игроков. С помощью ИИ‑агентов пользователи могут искать работу, формировать команды, находить проекты и получать поддержку. Сервис предлагает бесплатный доступ к интервью, квестам и подбору партнёров, а также платные персональные контакты. Платформа ориентирована на русскоязычное сообщество геймдева и поддерживает интеграцию с Telegram и другими мессенджерами.
+
+**Areas:** Game Development · Platform · Community · AI Agents · Russian
+
+## Геймдев Таверна on APIs.io
+
+Everything profiled for Геймдев Таверна is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/entri-games/](https://apis.io/providers/entri-games/)** — or go straight to one of the APIs or properties below.
+
+### APIs (16)
+
+- [Геймдев Таверна Bar API](https://apis.io/apis/entri-games/entri-games-bar-api/) — The Bar API from Геймдев Таверна — 2 operation(s) for bar.
+- [Геймдев Таверна Catalog API](https://apis.io/apis/entri-games/entri-games-catalog-api/) — The Catalog API from Геймдев Таверна — 2 operation(s) for catalog.
+- [Геймдев Таверна Chats API](https://apis.io/apis/entri-games/entri-games-chats-api/) — The Chats API from Геймдев Таверна — 3 operation(s) for chats.
+- [Геймдев Таверна Companies API](https://apis.io/apis/entri-games/entri-games-companies-api/) — The Companies API from Геймдев Таверна — 2 operation(s) for companies.
+- [Геймдев Таверна Context API](https://apis.io/apis/entri-games/entri-games-context-api/) — The Context API from Геймдев Таверна — 1 operation(s) for context.
+- [Геймдев Таверна Events API](https://apis.io/apis/entri-games/entri-games-events-api/) — The Events API from Геймдев Таверна — 5 operation(s) for events.
+- [Геймдев Таверна Inbox API](https://apis.io/apis/entri-games/entri-games-inbox-api/) — The Inbox API from Геймдев Таверна — 1 operation(s) for inbox.
+- [Геймдев Таверна Interview API](https://apis.io/apis/entri-games/entri-games-interview-api/) — The Interview API from Геймдев Таверна — 4 operation(s) for interview.
+- [Геймдев Таверна Leads API](https://apis.io/apis/entri-games/entri-games-leads-api/) — The Leads API from Геймдев Таверна — 2 operation(s) for leads.
+- [Геймдев Таверна Me API](https://apis.io/apis/entri-games/entri-games-me-api/) — The Me API from Геймдев Таверна — 1 operation(s) for me.
+- [Геймдев Таверна Operations API](https://apis.io/apis/entri-games/entri-games-operations-api/) — The Operations API from Геймдев Таверна — 1 operation(s) for operations.
+- [Геймдев Таверна People API](https://apis.io/apis/entri-games/entri-games-people-api/) — The People API from Геймдев Таверна — 2 operation(s) for people.
+- [Геймдев Таверна Profile API](https://apis.io/apis/entri-games/entri-games-profile-api/) — The Profile API from Геймдев Таверна — 1 operation(s) for profile.
+- [Геймдев Таверна Projects API](https://apis.io/apis/entri-games/entri-games-projects-api/) — The Projects API from Геймдев Таверна — 5 operation(s) for projects.
+- [Геймдев Таверна Quests API](https://apis.io/apis/entri-games/entri-games-quests-api/) — The Quests API from Геймдев Таверна — 5 operation(s) for quests.
+- [Геймдев Таверна Suggestions API](https://apis.io/apis/entri-games/entri-games-suggestions-api/) — The Suggestions API from Геймдев Таверна — 2 operation(s) for suggestions.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Entri Games Agentic Access](https://apis.io/agentic-access/entri-games/entri-games-agentic-access/)
+
+#### JSON Schema (1)
+
+The data models the API reads and writes.
+
+- [Envelope](https://apis.io/schemas/entri-games/entri-games-envelope/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Entri Games Context](https://apis.io/jsonld/entri-games/entri-games-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Геймдев Таверна API Rules](https://apis.io/rules/entri-games/entri-games-rules/)
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Entri Games Authentication](https://apis.io/security/entri-games/entri-games-authentication/)
+- [Entri Games Domain Security](https://apis.io/security/entri-games/entri-games-domain-security/)
+- [Entri Games Vulnerability Disclosure](https://apis.io/security/entri-games/entri-games-vulnerability-disclosure/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://entri.games/)
+- [Documentation](https://entri.games/guides)
+- [API reference](https://entri.games/llms-full.txt)
+- [Terms of service](https://entri.games/landing/terms.html)
+- [Privacy policy](https://entri.games/landing/privacy.html)
+
+## API Evangelist rating
+
+**Kin Score 44.1** — developing · rubric 0.27.0 · scored 2026-11-07
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 52.6 |
+| Contract governance | 79.1 |
+| Operational transparency | 10.5 |
+| Developer ergonomics | 35.0 |
+| Access clarity | 21.1 |
+
+**Agent readiness 37.6** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | verified |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | yes |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 30.4** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/entri-games/](https://apis.io/providers/entri-games/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Геймдев Таверна: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/entri-games/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
